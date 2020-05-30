@@ -1,7 +1,14 @@
-# Golf generator
+# [Golf generator](https://alexisloiselle.github.io/golf-generator-wasm)
 
-My first steps with WebAssembly
+[This](https://github.com/alexisloiselle/golf-generator) but with WebAssembly
 
-[Demo (underwhelming)](https://alexisloiselle.github.io/golf-generator-wasm)
+## Benchmarks
 
-A little less tasteful than [this](https://github.com/alexisloiselle/golf-generator)...
+With the [javascript](https://github.com/alexisloiselle/golf-generator) version:
+
+<img src"./1590805097.png" width="512" />
+
+With WebAssembly:
+
+<img src"./1590805048.png" width="512" />
+
