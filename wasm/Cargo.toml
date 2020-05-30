@@ -1,0 +1,17 @@
+[package]
+name = "wasm"
+version = "0.1.0"
+authors = ["Rob Taussig <robert.taussig@gmail.com>"]
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+wasm-bindgen = { version = "=0.2.34", features = ["serde-serialize"] }
+rand = { version = "0.7.3", features = ["wasm-bindgen"] }
+serde = "^1.0.59"
+serde_derive = "^1.0.59"
+interpolation = "^0.2.0"
+web-sys = {version = "0.3", features = ["console"]}
+earcutr = { git = "https://github.com/donbright/earcutr" }
