@@ -1,11 +1,16 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Golf Generator",
+  "name": "WASM Golf Generator",
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "256x256",
       "type": "image/x-icon"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "268x252",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
