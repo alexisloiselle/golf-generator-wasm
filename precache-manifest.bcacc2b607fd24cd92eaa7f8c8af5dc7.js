@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/golf-generator-wasm/b4504ec4eec79ad1af63.module.wasm"
   },
   {
-    "revision": "3f64a1557ab5b4e4a33f34ae141f7a72",
+    "revision": "49fc5273d0ec68b95ae8addd6147836f",
     "url": "/golf-generator-wasm/index.html"
   },
   {
