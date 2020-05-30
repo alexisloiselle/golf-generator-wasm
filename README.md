@@ -8,11 +8,11 @@
 
 ### With the [javascript](https://github.com/alexisloiselle/golf-generator) version
 
-<img src="./1590805097.png" width="512" />
+<img src="./1590805097.png" width="1024" />
 
 <hr/>
 
 ### With WebAssembly
 
-<img src="./1590805048.png" width="512" />
+<img src="./1590805048.png" width="1024" />
 
