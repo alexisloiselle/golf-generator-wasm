@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/golf-generator-wasm/precache-manifest.40004be91c3cd9cef752f17ff61842be.js"
+  "/golf-generator-wasm/precache-manifest.3e67744d8a821bba3cfb964d4e777958.js"
 );
 
 self.addEventListener('message', (event) => {
