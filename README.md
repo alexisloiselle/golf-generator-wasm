@@ -4,11 +4,15 @@
 
 ## Benchmarks
 
-With the [javascript](https://github.com/alexisloiselle/golf-generator) version:
+<hr/>
 
-<img src"./1590805097.png" width="512" />
+### With the [javascript](https://github.com/alexisloiselle/golf-generator) version
 
-With WebAssembly:
+<img src="./1590805097.png" width="512" />
 
-<img src"./1590805048.png" width="512" />
+<hr/>
+
+### With WebAssembly
+
+<img src="./1590805048.png" width="512" />
 
