@@ -1,6 +1,6 @@
 # [Golf generator](https://alexisloiselle.github.io/golf-generator-wasm)
 
-[This](https://github.com/alexisloiselle/golf-generator) but with WebAssembly
+[This](https://github.com/alexisloiselle/golf-generator) but with WebAssembly as PWA
 
 ## Benchmarks
 
